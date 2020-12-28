@@ -1,0 +1,767 @@
+[
+  {
+    "ServiceName": "AWS Accounts"
+  },
+  {
+    "ServiceName": "AWS Activate"
+  },
+  {
+    "ServiceName": "AWS Amplify"
+  },
+  {
+    "ServiceName": "AWS Amplify Admin"
+  },
+  {
+    "ServiceName": "AWS App Mesh"
+  },
+  {
+    "ServiceName": "AWS App Mesh Preview"
+  },
+  {
+    "ServiceName": "AWS AppConfig"
+  },
+  {
+    "ServiceName": "AWS AppSync"
+  },
+  {
+    "ServiceName": "AWS Application Discovery Service"
+  },
+  {
+    "ServiceName": "AWS Artifact"
+  },
+  {
+    "ServiceName": "AWS Audit Manager"
+  },
+  {
+    "ServiceName": "AWS Auto Scaling"
+  },
+  {
+    "ServiceName": "AWS Backup"
+  },
+  {
+    "ServiceName": "AWS Backup storage"
+  },
+  {
+    "ServiceName": "AWS Batch"
+  },
+  {
+    "ServiceName": "AWS Billing"
+  },
+  {
+    "ServiceName": "AWS Budget Service"
+  },
+  {
+    "ServiceName": "AWS Certificate Manager"
+  },
+  {
+    "ServiceName": "AWS Certificate Manager Private Certificate Authority"
+  },
+  {
+    "ServiceName": "AWS Chatbot"
+  },
+  {
+    "ServiceName": "AWS Cloud Map"
+  },
+  {
+    "ServiceName": "AWS Cloud9"
+  },
+  {
+    "ServiceName": "AWS CloudFormation"
+  },
+  {
+    "ServiceName": "AWS CloudHSM"
+  },
+  {
+    "ServiceName": "AWS CloudShell"
+  },
+  {
+    "ServiceName": "AWS CloudTrail"
+  },
+  {
+    "ServiceName": "AWS CodeArtifact"
+  },
+  {
+    "ServiceName": "AWS CodeBuild"
+  },
+  {
+    "ServiceName": "AWS CodeCommit"
+  },
+  {
+    "ServiceName": "AWS CodeDeploy"
+  },
+  {
+    "ServiceName": "AWS CodePipeline"
+  },
+  {
+    "ServiceName": "AWS CodeStar"
+  },
+  {
+    "ServiceName": "AWS CodeStar Connections"
+  },
+  {
+    "ServiceName": "AWS CodeStar Notifications"
+  },
+  {
+    "ServiceName": "AWS Compute Optimizer"
+  },
+  {
+    "ServiceName": "AWS Config"
+  },
+  {
+    "ServiceName": "AWS Connector Service"
+  },
+  {
+    "ServiceName": "AWS Cost Explorer Service"
+  },
+  {
+    "ServiceName": "AWS Cost and Usage Report"
+  },
+  {
+    "ServiceName": "AWS Data Exchange"
+  },
+  {
+    "ServiceName": "AWS Database Migration Service"
+  },
+  {
+    "ServiceName": "AWS DeepComposer"
+  },
+  {
+    "ServiceName": "AWS DeepLens"
+  },
+  {
+    "ServiceName": "AWS DeepRacer"
+  },
+  {
+    "ServiceName": "AWS Device Farm"
+  },
+  {
+    "ServiceName": "AWS Direct Connect"
+  },
+  {
+    "ServiceName": "AWS Directory Service"
+  },
+  {
+    "ServiceName": "AWS Elastic Beanstalk"
+  },
+  {
+    "ServiceName": "AWS Elemental Appliances and Software"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaConnect"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaConvert"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaLive"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaPackage"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaPackage VOD"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaStore"
+  },
+  {
+    "ServiceName": "AWS Elemental MediaTailor"
+  },
+  {
+    "ServiceName": "AWS Firewall Manager"
+  },
+  {
+    "ServiceName": "AWS Global Accelerator"
+  },
+  {
+    "ServiceName": "AWS Glue"
+  },
+  {
+    "ServiceName": "AWS Glue DataBrew"
+  },
+  {
+    "ServiceName": "AWS Ground Station"
+  },
+  {
+    "ServiceName": "AWS Health APIs and Notifications"
+  },
+  {
+    "ServiceName": "AWS IQ"
+  },
+  {
+    "ServiceName": "AWS IQ Permissions"
+  },
+  {
+    "ServiceName": "AWS Identity Store"
+  },
+  {
+    "ServiceName": "AWS Identity and Access Management"
+  },
+  {
+    "ServiceName": "AWS Import Export"
+  },
+  {
+    "ServiceName": "AWS IoT"
+  },
+  {
+    "ServiceName": "AWS IoT 1-Click"
+  },
+  {
+    "ServiceName": "AWS IoT Analytics"
+  },
+  {
+    "ServiceName": "AWS IoT Core Device Advisor"
+  },
+  {
+    "ServiceName": "AWS IoT Core for LoRaWAN"
+  },
+  {
+    "ServiceName": "AWS IoT Device Tester"
+  },
+  {
+    "ServiceName": "AWS IoT Events"
+  },
+  {
+    "ServiceName": "AWS IoT Greengrass"
+  },
+  {
+    "ServiceName": "AWS IoT SiteWise"
+  },
+  {
+    "ServiceName": "AWS IoT Things Graph"
+  },
+  {
+    "ServiceName": "AWS Key Management Service"
+  },
+  {
+    "ServiceName": "AWS Lake Formation"
+  },
+  {
+    "ServiceName": "AWS Lambda"
+  },
+  {
+    "ServiceName": "AWS License Manager"
+  },
+  {
+    "ServiceName": "AWS Marketplace"
+  },
+  {
+    "ServiceName": "AWS Marketplace Commerce Analytics Service"
+  },
+  {
+    "ServiceName": "AWS Marketplace Management Portal"
+  },
+  {
+    "ServiceName": "AWS Migration Hub"
+  },
+  {
+    "ServiceName": "AWS Mobile Hub"
+  },
+  {
+    "ServiceName": "AWS Network Firewall"
+  },
+  {
+    "ServiceName": "AWS OpsWorks"
+  },
+  {
+    "ServiceName": "AWS OpsWorks Configuration Management"
+  },
+  {
+    "ServiceName": "AWS Organizations"
+  },
+  {
+    "ServiceName": "AWS Outposts"
+  },
+  {
+    "ServiceName": "AWS Panorama"
+  },
+  {
+    "ServiceName": "AWS Performance Insights"
+  },
+  {
+    "ServiceName": "AWS Price List"
+  },
+  {
+    "ServiceName": "AWS Proton"
+  },
+  {
+    "ServiceName": "AWS Purchase Orders Console"
+  },
+  {
+    "ServiceName": "AWS Resource Access Manager"
+  },
+  {
+    "ServiceName": "AWS Resource Groups"
+  },
+  {
+    "ServiceName": "AWS RoboMaker"
+  },
+  {
+    "ServiceName": "AWS SSO"
+  },
+  {
+    "ServiceName": "AWS SSO Directory"
+  },
+  {
+    "ServiceName": "AWS Savings Plans"
+  },
+  {
+    "ServiceName": "AWS Secrets Manager"
+  },
+  {
+    "ServiceName": "AWS Security Hub"
+  },
+  {
+    "ServiceName": "AWS Security Token Service"
+  },
+  {
+    "ServiceName": "AWS Server Migration Service"
+  },
+  {
+    "ServiceName": "AWS Serverless Application Repository"
+  },
+  {
+    "ServiceName": "AWS Service Catalog"
+  },
+  {
+    "ServiceName": "AWS Shield"
+  },
+  {
+    "ServiceName": "AWS Signer"
+  },
+  {
+    "ServiceName": "AWS Snowball"
+  },
+  {
+    "ServiceName": "AWS Step Functions"
+  },
+  {
+    "ServiceName": "AWS Support"
+  },
+  {
+    "ServiceName": "AWS Systems Manager"
+  },
+  {
+    "ServiceName": "AWS Tag Editor"
+  },
+  {
+    "ServiceName": "AWS Timestream"
+  },
+  {
+    "ServiceName": "AWS Transfer for SFTP"
+  },
+  {
+    "ServiceName": "AWS Trusted Advisor"
+  },
+  {
+    "ServiceName": "AWS WAF"
+  },
+  {
+    "ServiceName": "AWS WAF Regional"
+  },
+  {
+    "ServiceName": "AWS WAF V2"
+  },
+  {
+    "ServiceName": "AWS Well-Architected Tool"
+  },
+  {
+    "ServiceName": "AWS X-Ray"
+  },
+  {
+    "ServiceName": "Alexa for Business"
+  },
+  {
+    "ServiceName": "Amazon API Gateway"
+  },
+  {
+    "ServiceName": "Amazon AppFlow"
+  },
+  {
+    "ServiceName": "Amazon AppStream 2.0"
+  },
+  {
+    "ServiceName": "Amazon Athena"
+  },
+  {
+    "ServiceName": "Amazon Braket"
+  },
+  {
+    "ServiceName": "Amazon Chime"
+  },
+  {
+    "ServiceName": "Amazon Cloud Directory"
+  },
+  {
+    "ServiceName": "Amazon CloudFront"
+  },
+  {
+    "ServiceName": "Amazon CloudSearch"
+  },
+  {
+    "ServiceName": "Amazon CloudWatch"
+  },
+  {
+    "ServiceName": "Amazon CloudWatch Logs"
+  },
+  {
+    "ServiceName": "Amazon CloudWatch Synthetics"
+  },
+  {
+    "ServiceName": "Amazon CodeGuru"
+  },
+  {
+    "ServiceName": "Amazon CodeGuru Profiler"
+  },
+  {
+    "ServiceName": "Amazon CodeGuru Reviewer"
+  },
+  {
+    "ServiceName": "Amazon Cognito Identity"
+  },
+  {
+    "ServiceName": "Amazon Cognito Sync"
+  },
+  {
+    "ServiceName": "Amazon Cognito User Pools"
+  },
+  {
+    "ServiceName": "Amazon Comprehend"
+  },
+  {
+    "ServiceName": "Amazon Connect"
+  },
+  {
+    "ServiceName": "Amazon Connect Customer Profiles"
+  },
+  {
+    "ServiceName": "Amazon Data Lifecycle Manager"
+  },
+  {
+    "ServiceName": "Amazon Detective"
+  },
+  {
+    "ServiceName": "Amazon DevOps Guru"
+  },
+  {
+    "ServiceName": "Amazon DynamoDB"
+  },
+  {
+    "ServiceName": "Amazon DynamoDB Accelerator (DAX)"
+  },
+  {
+    "ServiceName": "Amazon EC2"
+  },
+  {
+    "ServiceName": "Amazon EC2 Auto Scaling"
+  },
+  {
+    "ServiceName": "Amazon EC2 Image Builder"
+  },
+  {
+    "ServiceName": "Amazon EC2 Instance Connect"
+  },
+  {
+    "ServiceName": "Amazon EMR on EKS (EMR Containers)"
+  },
+  {
+    "ServiceName": "Amazon ElastiCache"
+  },
+  {
+    "ServiceName": "Amazon Elastic Block Store"
+  },
+  {
+    "ServiceName": "Amazon Elastic Container Registry"
+  },
+  {
+    "ServiceName": "Amazon Elastic Container Registry Public"
+  },
+  {
+    "ServiceName": "Amazon Elastic Container Service"
+  },
+  {
+    "ServiceName": "Amazon Elastic Container Service for Kubernetes"
+  },
+  {
+    "ServiceName": "Amazon Elastic File System"
+  },
+  {
+    "ServiceName": "Amazon Elastic Inference"
+  },
+  {
+    "ServiceName": "Amazon Elastic MapReduce"
+  },
+  {
+    "ServiceName": "Amazon Elastic Transcoder"
+  },
+  {
+    "ServiceName": "Amazon Elasticsearch Service"
+  },
+  {
+    "ServiceName": "Amazon EventBridge"
+  },
+  {
+    "ServiceName": "Amazon EventBridge Schemas"
+  },
+  {
+    "ServiceName": "Amazon FSx"
+  },
+  {
+    "ServiceName": "Amazon Forecast"
+  },
+  {
+    "ServiceName": "Amazon Fraud Detector"
+  },
+  {
+    "ServiceName": "Amazon FreeRTOS"
+  },
+  {
+    "ServiceName": "Amazon GameLift"
+  },
+  {
+    "ServiceName": "Amazon Glacier"
+  },
+  {
+    "ServiceName": "Amazon GroundTruth Labeling"
+  },
+  {
+    "ServiceName": "Amazon GuardDuty"
+  },
+  {
+    "ServiceName": "Amazon Honeycode"
+  },
+  {
+    "ServiceName": "Amazon Inspector"
+  },
+  {
+    "ServiceName": "Amazon Interactive Video Service"
+  },
+  {
+    "ServiceName": "Amazon Kendra"
+  },
+  {
+    "ServiceName": "Amazon Keyspaces (for Apache Cassandra)"
+  },
+  {
+    "ServiceName": "Amazon Kinesis"
+  },
+  {
+    "ServiceName": "Amazon Kinesis Analytics"
+  },
+  {
+    "ServiceName": "Amazon Kinesis Firehose"
+  },
+  {
+    "ServiceName": "Amazon Kinesis Video Streams"
+  },
+  {
+    "ServiceName": "Amazon Lex"
+  },
+  {
+    "ServiceName": "Amazon Lightsail"
+  },
+  {
+    "ServiceName": "Amazon Location"
+  },
+  {
+    "ServiceName": "Amazon Lookout for Vision"
+  },
+  {
+    "ServiceName": "Amazon MQ"
+  },
+  {
+    "ServiceName": "Amazon Machine Learning"
+  },
+  {
+    "ServiceName": "Amazon Macie"
+  },
+  {
+    "ServiceName": "Amazon Macie Classic"
+  },
+  {
+    "ServiceName": "Amazon Managed Blockchain"
+  },
+  {
+    "ServiceName": "Amazon Managed Service for Prometheus"
+  },
+  {
+    "ServiceName": "Amazon Managed Streaming for Apache Kafka"
+  },
+  {
+    "ServiceName": "Amazon Managed Workflows for Apache Airflow"
+  },
+  {
+    "ServiceName": "Amazon Mechanical Turk"
+  },
+  {
+    "ServiceName": "Amazon Message Delivery Service"
+  },
+  {
+    "ServiceName": "Amazon Mobile Analytics"
+  },
+  {
+    "ServiceName": "Amazon Monitron"
+  },
+  {
+    "ServiceName": "Amazon Neptune"
+  },
+  {
+    "ServiceName": "Amazon Personalize"
+  },
+  {
+    "ServiceName": "Amazon Pinpoint"
+  },
+  {
+    "ServiceName": "Amazon Pinpoint SMS and Voice Service"
+  },
+  {
+    "ServiceName": "Amazon Polly"
+  },
+  {
+    "ServiceName": "Amazon QLDB"
+  },
+  {
+    "ServiceName": "Amazon QuickSight"
+  },
+  {
+    "ServiceName": "Amazon RDS"
+  },
+  {
+    "ServiceName": "Amazon RDS Data API"
+  },
+  {
+    "ServiceName": "Amazon RDS IAM Authentication"
+  },
+  {
+    "ServiceName": "Amazon Redshift"
+  },
+  {
+    "ServiceName": "Amazon Redshift Data API"
+  },
+  {
+    "ServiceName": "Amazon Rekognition"
+  },
+  {
+    "ServiceName": "Amazon Resource Group Tagging API"
+  },
+  {
+    "ServiceName": "Amazon Route 53"
+  },
+  {
+    "ServiceName": "Amazon Route 53 Resolver"
+  },
+  {
+    "ServiceName": "Amazon Route53 Domains"
+  },
+  {
+    "ServiceName": "Amazon S3"
+  },
+  {
+    "ServiceName": "Amazon S3 on Outposts"
+  },
+  {
+    "ServiceName": "Amazon SES"
+  },
+  {
+    "ServiceName": "Amazon SNS"
+  },
+  {
+    "ServiceName": "Amazon SQS"
+  },
+  {
+    "ServiceName": "Amazon SageMaker"
+  },
+  {
+    "ServiceName": "Amazon Session Manager Message Gateway Service"
+  },
+  {
+    "ServiceName": "Amazon Simple Workflow Service"
+  },
+  {
+    "ServiceName": "Amazon SimpleDB"
+  },
+  {
+    "ServiceName": "Amazon Storage Gateway"
+  },
+  {
+    "ServiceName": "Amazon Sumerian"
+  },
+  {
+    "ServiceName": "Amazon Textract"
+  },
+  {
+    "ServiceName": "Amazon Transcribe"
+  },
+  {
+    "ServiceName": "Amazon Translate"
+  },
+  {
+    "ServiceName": "Amazon WorkDocs"
+  },
+  {
+    "ServiceName": "Amazon WorkLink"
+  },
+  {
+    "ServiceName": "Amazon WorkMail"
+  },
+  {
+    "ServiceName": "Amazon WorkMail Message Flow"
+  },
+  {
+    "ServiceName": "Amazon WorkSpaces"
+  },
+  {
+    "ServiceName": "Amazon WorkSpaces Application Manager"
+  },
+  {
+    "ServiceName": "Application Auto Scaling"
+  },
+  {
+    "ServiceName": "Application Discovery Arsenal"
+  },
+  {
+    "ServiceName": "CloudWatch Application Insights"
+  },
+  {
+    "ServiceName": "Comprehend Medical"
+  },
+  {
+    "ServiceName": "Data Pipeline"
+  },
+  {
+    "ServiceName": "DataSync"
+  },
+  {
+    "ServiceName": "Database Query Metadata Service"
+  },
+  {
+    "ServiceName": "Elastic Load Balancing"
+  },
+  {
+    "ServiceName": "Elemental Activations"
+  },
+  {
+    "ServiceName": "Elemental Support Cases"
+  },
+  {
+    "ServiceName": "Elemental Support Content"
+  },
+  {
+    "ServiceName": "Fleet Hub for AWS IoT Device Management"
+  },
+  {
+    "ServiceName": "IAM Access Analyzer"
+  },
+  {
+    "ServiceName": "Launch Wizard"
+  },
+  {
+    "ServiceName": "Manage - Amazon API Gateway"
+  },
+  {
+    "ServiceName": "Network Manager"
+  },
+  {
+    "ServiceName": "Service Quotas"
+  }
+]
