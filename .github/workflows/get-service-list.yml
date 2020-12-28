@@ -11,6 +11,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
+      - uses: chrislennon/action-aws-cli@v1.1
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
