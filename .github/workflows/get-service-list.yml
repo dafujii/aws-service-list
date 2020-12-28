@@ -23,6 +23,10 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
+      - name: run
+        run: |
+          aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000  | jq '.ServicesLastAccessed | sort_by(.ServiceName) | map({ServiceName: .ServiceName})'
+
       - name: Update AWS Service List in us-east-1
         run: |
           aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000  | jq '.ServicesLastAccessed | sort_by(.ServiceName) | map({ServiceName: .ServiceName})' > us-east-1.json
