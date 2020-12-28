@@ -25,7 +25,7 @@ jobs:
 
       - name: run
         run: |
-          aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000  | jq '.ServicesLastAccessed | sort_by(.ServiceName) | map({ServiceName: .ServiceName})'
+          aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000
 
       - name: Update AWS Service List in us-east-1
         run: |
