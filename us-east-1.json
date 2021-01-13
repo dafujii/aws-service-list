@@ -345,9 +345,6 @@
     "ServiceName": "AWS Tag Editor"
   },
   {
-    "ServiceName": "AWS Timestream"
-  },
-  {
     "ServiceName": "AWS Transfer for SFTP"
   },
   {
@@ -688,6 +685,9 @@
   },
   {
     "ServiceName": "Amazon Textract"
+  },
+  {
+    "ServiceName": "Amazon Timestream"
   },
   {
     "ServiceName": "Amazon Transcribe"
