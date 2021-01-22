@@ -375,6 +375,9 @@
     "ServiceName": "Amazon AppFlow"
   },
   {
+    "ServiceName": "Amazon AppIntegrations"
+  },
+  {
     "ServiceName": "Amazon AppStream 2.0"
   },
   {
