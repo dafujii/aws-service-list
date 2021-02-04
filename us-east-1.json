@@ -144,6 +144,9 @@
     "ServiceName": "AWS Elastic Beanstalk"
   },
   {
+    "ServiceName": "AWS Elemental Appliances and Softwaer Activation Service"
+  },
+  {
     "ServiceName": "AWS Elemental Appliances and Software"
   },
   {
@@ -564,6 +567,9 @@
     "ServiceName": "Amazon Location"
   },
   {
+    "ServiceName": "Amazon Lookout for Equipment"
+  },
+  {
     "ServiceName": "Amazon Lookout for Vision"
   },
   {
@@ -742,9 +748,6 @@
   },
   {
     "ServiceName": "Elastic Load Balancing"
-  },
-  {
-    "ServiceName": "Elemental Activations"
   },
   {
     "ServiceName": "Elemental Support Cases"
