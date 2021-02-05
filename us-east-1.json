@@ -144,10 +144,10 @@
     "ServiceName": "AWS Elastic Beanstalk"
   },
   {
-    "ServiceName": "AWS Elemental Appliances and Softwaer Activation Service"
+    "ServiceName": "AWS Elemental Appliances and Software"
   },
   {
-    "ServiceName": "AWS Elemental Appliances and Software"
+    "ServiceName": "AWS Elemental Appliances and Software Activation Service"
   },
   {
     "ServiceName": "AWS Elemental MediaConnect"
