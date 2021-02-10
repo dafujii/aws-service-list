@@ -348,6 +348,9 @@
     "ServiceName": "AWS Tag Editor"
   },
   {
+    "ServiceName": "AWS Tiros"
+  },
+  {
     "ServiceName": "AWS Transfer for SFTP"
   },
   {
