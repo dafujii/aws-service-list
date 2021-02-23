@@ -435,6 +435,9 @@
     "ServiceName": "Amazon Comprehend"
   },
   {
+    "ServiceName": "Amazon Comprehend Medical"
+  },
+  {
     "ServiceName": "Amazon Connect"
   },
   {
@@ -736,9 +739,6 @@
   },
   {
     "ServiceName": "CloudWatch Application Insights"
-  },
-  {
-    "ServiceName": "Comprehend Medical"
   },
   {
     "ServiceName": "Data Pipeline"
