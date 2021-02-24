@@ -576,6 +576,9 @@
     "ServiceName": "Amazon Lookout for Equipment"
   },
   {
+    "ServiceName": "Amazon Lookout for Metrics"
+  },
+  {
     "ServiceName": "Amazon Lookout for Vision"
   },
   {
