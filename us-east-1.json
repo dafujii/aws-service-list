@@ -489,13 +489,13 @@
     "ServiceName": "Amazon Elastic Container Service"
   },
   {
-    "ServiceName": "Amazon Elastic Container Service for Kubernetes"
-  },
-  {
     "ServiceName": "Amazon Elastic File System"
   },
   {
     "ServiceName": "Amazon Elastic Inference"
+  },
+  {
+    "ServiceName": "Amazon Elastic Kubernetes Service"
   },
   {
     "ServiceName": "Amazon Elastic MapReduce"
