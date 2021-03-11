@@ -189,6 +189,9 @@
     "ServiceName": "AWS Health APIs and Notifications"
   },
   {
+    "ServiceName": "AWS IAM Access Analyzer"
+  },
+  {
     "ServiceName": "AWS IQ"
   },
   {
@@ -763,9 +766,6 @@
   },
   {
     "ServiceName": "Fleet Hub for AWS IoT Device Management"
-  },
-  {
-    "ServiceName": "IAM Access Analyzer"
   },
   {
     "ServiceName": "Launch Wizard"
