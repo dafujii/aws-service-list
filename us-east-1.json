@@ -171,6 +171,9 @@
     "ServiceName": "AWS Elemental MediaTailor"
   },
   {
+    "ServiceName": "AWS Fault Injection Simulator"
+  },
+  {
     "ServiceName": "AWS Firewall Manager"
   },
   {
@@ -373,6 +376,9 @@
   },
   {
     "ServiceName": "AWS X-Ray"
+  },
+  {
+    "ServiceName": "AWSDataSync"
   },
   {
     "ServiceName": "Alexa for Business"
@@ -748,9 +754,6 @@
   },
   {
     "ServiceName": "Data Pipeline"
-  },
-  {
-    "ServiceName": "DataSync"
   },
   {
     "ServiceName": "Database Query Metadata Service"
