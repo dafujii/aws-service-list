@@ -684,6 +684,9 @@
     "ServiceName": "Amazon S3"
   },
   {
+    "ServiceName": "Amazon S3 Object Lambda"
+  },
+  {
     "ServiceName": "Amazon S3 on Outposts"
   },
   {
