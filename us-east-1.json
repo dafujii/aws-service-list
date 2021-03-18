@@ -546,6 +546,9 @@
     "ServiceName": "Amazon GuardDuty"
   },
   {
+    "ServiceName": "Amazon HealthLake"
+  },
+  {
     "ServiceName": "Amazon Honeycode"
   },
   {
