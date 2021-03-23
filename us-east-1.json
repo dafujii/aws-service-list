@@ -231,6 +231,9 @@
     "ServiceName": "AWS IoT Events"
   },
   {
+    "ServiceName": "AWS IoT Fleet Hub for Device Management"
+  },
+  {
     "ServiceName": "AWS IoT Greengrass"
   },
   {
@@ -772,9 +775,6 @@
   },
   {
     "ServiceName": "Elemental Support Content"
-  },
-  {
-    "ServiceName": "Fleet Hub for AWS IoT Device Management"
   },
   {
     "ServiceName": "Launch Wizard"
