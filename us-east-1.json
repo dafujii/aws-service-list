@@ -27,6 +27,9 @@
     "ServiceName": "AWS Application Discovery Service"
   },
   {
+    "ServiceName": "AWS Application Migration Service"
+  },
+  {
     "ServiceName": "AWS Artifact"
   },
   {
