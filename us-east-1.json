@@ -684,10 +684,10 @@
     "ServiceName": "Amazon Route 53"
   },
   {
-    "ServiceName": "Amazon Route 53 Resolver"
+    "ServiceName": "Amazon Route 53 Domains"
   },
   {
-    "ServiceName": "Amazon Route53 Domains"
+    "ServiceName": "Amazon Route 53 Resolver"
   },
   {
     "ServiceName": "Amazon S3"
