@@ -357,6 +357,9 @@
     "ServiceName": "AWS Systems Manager"
   },
   {
+    "ServiceName": "AWS Systems Manager Incident Manager"
+  },
+  {
     "ServiceName": "AWS Tag Editor"
   },
   {
