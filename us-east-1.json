@@ -114,6 +114,9 @@
     "ServiceName": "AWS Connector Service"
   },
   {
+    "ServiceName": "AWS Control Tower"
+  },
+  {
     "ServiceName": "AWS Cost Explorer Service"
   },
   {
