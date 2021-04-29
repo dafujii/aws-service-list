@@ -648,6 +648,9 @@
     "ServiceName": "Amazon Neptune"
   },
   {
+    "ServiceName": "Amazon Nimble Studio"
+  },
+  {
     "ServiceName": "Amazon Personalize"
   },
   {
