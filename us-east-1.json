@@ -765,6 +765,9 @@
     "ServiceName": "Amazon WorkSpaces Application Manager"
   },
   {
+    "ServiceName": "Apache Kafka APIs for Amazon MSK clusters"
+  },
+  {
     "ServiceName": "Application Auto Scaling"
   },
   {
