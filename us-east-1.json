@@ -363,6 +363,9 @@
     "ServiceName": "AWS Systems Manager Incident Manager"
   },
   {
+    "ServiceName": "AWS Systems Manager Incident Manager Contacts"
+  },
+  {
     "ServiceName": "AWS Tag Editor"
   },
   {
