@@ -24,6 +24,9 @@
     "ServiceName": "AWS AppSync"
   },
   {
+    "ServiceName": "AWS Application Cost Profiler Service"
+  },
+  {
     "ServiceName": "AWS Application Discovery Service"
   },
   {
