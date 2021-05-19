@@ -18,6 +18,9 @@
     "ServiceName": "AWS App Mesh Preview"
   },
   {
+    "ServiceName": "AWS App Runner"
+  },
+  {
     "ServiceName": "AWS AppConfig"
   },
   {
