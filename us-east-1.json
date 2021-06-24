@@ -60,6 +60,9 @@
     "ServiceName": "AWS Budget Service"
   },
   {
+    "ServiceName": "AWS BugBust"
+  },
+  {
     "ServiceName": "AWS Certificate Manager"
   },
   {
