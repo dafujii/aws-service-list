@@ -357,6 +357,9 @@
     "ServiceName": "AWS Signer"
   },
   {
+    "ServiceName": "AWS Snow Device Management"
+  },
+  {
     "ServiceName": "AWS Snowball"
   },
   {
