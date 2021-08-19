@@ -651,6 +651,9 @@
     "ServiceName": "Amazon Mechanical Turk"
   },
   {
+    "ServiceName": "Amazon MemoryDB"
+  },
+  {
     "ServiceName": "Amazon Message Delivery Service"
   },
   {
