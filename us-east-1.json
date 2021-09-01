@@ -636,7 +636,7 @@
     "ServiceName": "Amazon Managed Blockchain"
   },
   {
-    "ServiceName": "Amazon Managed Service for Grafana"
+    "ServiceName": "Amazon Managed Grafana"
   },
   {
     "ServiceName": "Amazon Managed Service for Prometheus"
