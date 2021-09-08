@@ -540,9 +540,6 @@
     "ServiceName": "Amazon Elastic Transcoder"
   },
   {
-    "ServiceName": "Amazon Elasticsearch Service"
-  },
-  {
     "ServiceName": "Amazon EventBridge"
   },
   {
@@ -667,6 +664,9 @@
   },
   {
     "ServiceName": "Amazon Nimble Studio"
+  },
+  {
+    "ServiceName": "Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)"
   },
   {
     "ServiceName": "Amazon Personalize"
