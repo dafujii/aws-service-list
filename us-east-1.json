@@ -549,6 +549,9 @@
     "ServiceName": "Amazon FSx"
   },
   {
+    "ServiceName": "Amazon FinSpace"
+  },
+  {
     "ServiceName": "Amazon Forecast"
   },
   {
@@ -640,6 +643,9 @@
   },
   {
     "ServiceName": "Amazon Managed Streaming for Apache Kafka"
+  },
+  {
+    "ServiceName": "Amazon Managed Streaming for Kafka Connect"
   },
   {
     "ServiceName": "Amazon Managed Workflows for Apache Airflow"
