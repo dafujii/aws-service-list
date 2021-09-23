@@ -324,6 +324,9 @@
     "ServiceName": "AWS RoboMaker"
   },
   {
+    "ServiceName": "AWS SQL Workbench"
+  },
+  {
     "ServiceName": "AWS SSO"
   },
   {
