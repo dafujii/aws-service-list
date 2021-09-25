@@ -723,16 +723,16 @@
     "ServiceName": "Amazon Route 53 Domains"
   },
   {
+    "ServiceName": "Amazon Route 53 Recovery Cluster"
+  },
+  {
+    "ServiceName": "Amazon Route 53 Recovery Controls"
+  },
+  {
+    "ServiceName": "Amazon Route 53 Recovery Readiness"
+  },
+  {
     "ServiceName": "Amazon Route 53 Resolver"
-  },
-  {
-    "ServiceName": "Amazon Route53 Recovery Cluster"
-  },
-  {
-    "ServiceName": "Amazon Route53 Recovery Controls"
-  },
-  {
-    "ServiceName": "Amazon Route53 Recovery Readiness"
   },
   {
     "ServiceName": "Amazon S3"
