@@ -483,6 +483,9 @@
     "ServiceName": "Amazon Connect Customer Profiles"
   },
   {
+    "ServiceName": "Amazon Connect Voice ID"
+  },
+  {
     "ServiceName": "Amazon Data Lifecycle Manager"
   },
   {
