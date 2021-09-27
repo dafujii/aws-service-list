@@ -486,6 +486,9 @@
     "ServiceName": "Amazon Connect Voice ID"
   },
   {
+    "ServiceName": "Amazon Connect Wisdom"
+  },
+  {
     "ServiceName": "Amazon Data Lifecycle Manager"
   },
   {
