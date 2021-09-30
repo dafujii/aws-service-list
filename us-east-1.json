@@ -1,6 +1,6 @@
 [
   {
-    "ServiceName": "AWS Accounts"
+    "ServiceName": "AWS Account Management"
   },
   {
     "ServiceName": "AWS Activate"
@@ -387,7 +387,7 @@
     "ServiceName": "AWS Tiros"
   },
   {
-    "ServiceName": "AWS Transfer for SFTP"
+    "ServiceName": "AWS Transfer Family"
   },
   {
     "ServiceName": "AWS Trusted Advisor"
