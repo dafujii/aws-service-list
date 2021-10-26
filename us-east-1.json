@@ -813,6 +813,9 @@
     "ServiceName": "Amazon WorkSpaces Application Manager"
   },
   {
+    "ServiceName": "AmazonMediaImport"
+  },
+  {
     "ServiceName": "Apache Kafka APIs for Amazon MSK clusters"
   },
   {
