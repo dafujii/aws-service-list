@@ -291,6 +291,9 @@
     "ServiceName": "AWS Network Firewall"
   },
   {
+    "ServiceName": "AWS Network Manager"
+  },
+  {
     "ServiceName": "AWS OpsWorks"
   },
   {
@@ -850,8 +853,5 @@
   },
   {
     "ServiceName": "Manage - Amazon API Gateway"
-  },
-  {
-    "ServiceName": "Network Manager"
   }
 ]
