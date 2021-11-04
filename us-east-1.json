@@ -360,9 +360,6 @@
     "ServiceName": "AWS Service Catalog"
   },
   {
-    "ServiceName": "AWS Service Quotas"
-  },
-  {
     "ServiceName": "AWS Shield"
   },
   {
@@ -853,5 +850,8 @@
   },
   {
     "ServiceName": "Manage - Amazon API Gateway"
+  },
+  {
+    "ServiceName": "Service Quotas"
   }
 ]
