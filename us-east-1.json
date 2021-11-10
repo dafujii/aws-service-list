@@ -321,6 +321,9 @@
     "ServiceName": "AWS Purchase Orders Console"
   },
   {
+    "ServiceName": "AWS Resilience Hub Service"
+  },
+  {
     "ServiceName": "AWS Resource Access Manager"
   },
   {
