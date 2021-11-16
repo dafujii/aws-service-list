@@ -600,6 +600,9 @@
     "ServiceName": "Amazon Inspector"
   },
   {
+    "ServiceName": "Amazon Inspector2"
+  },
+  {
     "ServiceName": "Amazon Interactive Video Service"
   },
   {
