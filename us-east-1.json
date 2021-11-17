@@ -159,6 +159,9 @@
     "ServiceName": "AWS Elastic Beanstalk"
   },
   {
+    "ServiceName": "AWS Elastic Disaster Recovery"
+  },
+  {
     "ServiceName": "AWS Elemental Appliances and Software"
   },
   {
