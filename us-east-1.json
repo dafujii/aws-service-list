@@ -48,6 +48,9 @@
     "ServiceName": "AWS Backup"
   },
   {
+    "ServiceName": "AWS Backup Gateway"
+  },
+  {
     "ServiceName": "AWS Backup storage"
   },
   {
@@ -385,6 +388,9 @@
   },
   {
     "ServiceName": "AWS Systems Manager"
+  },
+  {
+    "ServiceName": "AWS Systems Manager GUI Connect"
   },
   {
     "ServiceName": "AWS Systems Manager Incident Manager"
