@@ -93,6 +93,9 @@
     "ServiceName": "AWS CloudTrail"
   },
   {
+    "ServiceName": "AWS CloudWatch RUM"
+  },
+  {
     "ServiceName": "AWS CodeArtifact"
   },
   {
@@ -469,6 +472,9 @@
   },
   {
     "ServiceName": "Amazon CloudWatch"
+  },
+  {
+    "ServiceName": "Amazon CloudWatch Evidently"
   },
   {
     "ServiceName": "Amazon CloudWatch Logs"
