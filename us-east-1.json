@@ -258,6 +258,9 @@
     "ServiceName": "AWS IoT Greengrass"
   },
   {
+    "ServiceName": "AWS IoT RoboRunner"
+  },
+  {
     "ServiceName": "AWS IoT SiteWise"
   },
   {
