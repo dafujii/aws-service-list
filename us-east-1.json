@@ -291,6 +291,9 @@
     "ServiceName": "AWS Migration Hub"
   },
   {
+    "ServiceName": "AWS Migration Hub Refactor Spaces"
+  },
+  {
     "ServiceName": "AWS Migration Hub Strategy Recommendations."
   },
   {
