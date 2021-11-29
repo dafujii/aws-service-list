@@ -879,6 +879,9 @@
     "ServiceName": "Manage - Amazon API Gateway"
   },
   {
+    "ServiceName": "Recycle Bin"
+  },
+  {
     "ServiceName": "Service Quotas"
   }
 ]
