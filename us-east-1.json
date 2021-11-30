@@ -258,6 +258,9 @@
     "ServiceName": "AWS IoT Fleet Hub for Device Management"
   },
   {
+    "ServiceName": "AWS IoT FleetWise"
+  },
+  {
     "ServiceName": "AWS IoT Greengrass"
   },
   {
@@ -289,6 +292,9 @@
   },
   {
     "ServiceName": "AWS Marketplace Management Portal"
+  },
+  {
+    "ServiceName": "AWS Microservice Extractor for .NET"
   },
   {
     "ServiceName": "AWS Migration Hub"
@@ -838,6 +844,9 @@
   },
   {
     "ServiceName": "Amazon WorkSpaces Application Manager"
+  },
+  {
+    "ServiceName": "Amazon WorkSpaces Web"
   },
   {
     "ServiceName": "AmazonMediaImport"
