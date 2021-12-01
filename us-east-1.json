@@ -273,6 +273,9 @@
     "ServiceName": "AWS IoT Things Graph"
   },
   {
+    "ServiceName": "AWS IoT TwinMaker"
+  },
+  {
     "ServiceName": "AWS Key Management Service"
   },
   {
