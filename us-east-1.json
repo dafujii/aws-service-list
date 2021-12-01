@@ -12,6 +12,9 @@
     "ServiceName": "AWS Amplify Admin"
   },
   {
+    "ServiceName": "AWS Amplify UI Builder"
+  },
+  {
     "ServiceName": "AWS App Mesh"
   },
   {
