@@ -26,7 +26,7 @@ jobs:
       - name: Update AWS Service List in us-east-1
         run: >
           i=`aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text`
-          && sleep 1
+          && sleep 2
           && aws iam get-service-last-accessed-details --job-id $i --max-items 1000
           | jq '.ServicesLastAccessed
           | sort_by(.ServiceName)
