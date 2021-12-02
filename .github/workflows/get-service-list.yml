@@ -23,13 +23,15 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
-      - name: run
-        run: |
-          aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000
-
       - name: Update AWS Service List in us-east-1
-        run: |
-          aws iam get-service-last-accessed-details --job-id `aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text` --max-items 1000  | jq '.ServicesLastAccessed | sort_by(.ServiceName) | map({ServiceName: .ServiceName})' > us-east-1.json
+        run: >
+          i=`aws iam generate-service-last-accessed-details --arn arn:aws:iam::aws:policy/AdministratorAccess --output text`
+          && sleep 1
+          && aws iam get-service-last-accessed-details --job-id $i --max-items 1000
+          | jq '.ServicesLastAccessed
+          | sort_by(.ServiceName)
+          | map({ServiceName: .ServiceName})'
+          > us-east-1.json
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
