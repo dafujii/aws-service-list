@@ -30,6 +30,9 @@
     "ServiceName": "AWS AppSync"
   },
   {
+    "ServiceName": "AWS Application Auto Scaling"
+  },
+  {
     "ServiceName": "AWS Application Cost Profiler Service"
   },
   {
@@ -856,9 +859,6 @@
   },
   {
     "ServiceName": "Apache Kafka APIs for Amazon MSK clusters"
-  },
-  {
-    "ServiceName": "Application Auto Scaling"
   },
   {
     "ServiceName": "Application Discovery Arsenal"
