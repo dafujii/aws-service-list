@@ -114,6 +114,9 @@
     "ServiceName": "AWS CodeDeploy"
   },
   {
+    "ServiceName": "AWS CodeDeploy secure host commands service"
+  },
+  {
     "ServiceName": "AWS CodePipeline"
   },
   {
