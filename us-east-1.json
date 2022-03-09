@@ -762,6 +762,9 @@
     "ServiceName": "Amazon RDS IAM Authentication"
   },
   {
+    "ServiceName": "Amazon RHEL Knowledgebase Portal"
+  },
+  {
     "ServiceName": "Amazon Redshift"
   },
   {
