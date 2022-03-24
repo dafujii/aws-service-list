@@ -627,6 +627,9 @@
     "ServiceName": "Amazon GameLift"
   },
   {
+    "ServiceName": "Amazon GameSparks"
+  },
+  {
     "ServiceName": "Amazon Glacier"
   },
   {
