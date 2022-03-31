@@ -753,7 +753,7 @@
     "ServiceName": "Amazon Pinpoint"
   },
   {
-    "ServiceName": "Amazon Pinpoint SMS and Voice Service"
+    "ServiceName": "Amazon Pinpoint SMS Voice V2"
   },
   {
     "ServiceName": "Amazon Polly"
