@@ -153,6 +153,9 @@
     "ServiceName": "AWS Data Exchange"
   },
   {
+    "ServiceName": "AWS DataSync"
+  },
+  {
     "ServiceName": "AWS Database Migration Service"
   },
   {
@@ -460,9 +463,6 @@
   },
   {
     "ServiceName": "AWS X-Ray"
-  },
-  {
-    "ServiceName": "AWSDataSync"
   },
   {
     "ServiceName": "Alexa for Business"
