@@ -153,6 +153,9 @@
     "ServiceName": "AWS Data Exchange"
   },
   {
+    "ServiceName": "AWS Data Pipeline"
+  },
+  {
     "ServiceName": "AWS DataSync"
   },
   {
@@ -886,9 +889,6 @@
   },
   {
     "ServiceName": "CloudWatch Application Insights"
-  },
-  {
-    "ServiceName": "Data Pipeline"
   },
   {
     "ServiceName": "Database Query Metadata Service"
