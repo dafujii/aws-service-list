@@ -324,6 +324,9 @@
     "ServiceName": "AWS Migration Hub"
   },
   {
+    "ServiceName": "AWS Migration Hub Orchestrator"
+  },
+  {
     "ServiceName": "AWS Migration Hub Refactor Spaces"
   },
   {
