@@ -285,6 +285,9 @@
     "ServiceName": "AWS IoT Greengrass"
   },
   {
+    "ServiceName": "AWS IoT Jobs DataPlane"
+  },
+  {
     "ServiceName": "AWS IoT RoboRunner"
   },
   {
