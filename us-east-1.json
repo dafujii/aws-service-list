@@ -642,9 +642,6 @@
     "ServiceName": "Amazon GameSparks"
   },
   {
-    "ServiceName": "Amazon Glacier"
-  },
-  {
     "ServiceName": "Amazon GroundTruth Labeling"
   },
   {
@@ -817,6 +814,9 @@
   },
   {
     "ServiceName": "Amazon S3"
+  },
+  {
+    "ServiceName": "Amazon S3 Glacier"
   },
   {
     "ServiceName": "Amazon S3 Object Lambda"
