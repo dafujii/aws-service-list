@@ -663,6 +663,9 @@
     "ServiceName": "Amazon Interactive Video Service"
   },
   {
+    "ServiceName": "Amazon Interactive Video Service Chat"
+  },
+  {
     "ServiceName": "Amazon Kendra"
   },
   {
