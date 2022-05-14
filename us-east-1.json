@@ -870,6 +870,9 @@
     "ServiceName": "Amazon WorkDocs"
   },
   {
+    "ServiceName": "Amazon WorkLink"
+  },
+  {
     "ServiceName": "Amazon WorkMail"
   },
   {
