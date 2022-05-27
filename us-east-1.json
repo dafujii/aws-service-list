@@ -582,6 +582,9 @@
     "ServiceName": "Amazon EC2 Instance Connect"
   },
   {
+    "ServiceName": "Amazon EMR Serverless"
+  },
+  {
     "ServiceName": "Amazon EMR on EKS (EMR Containers)"
   },
   {
