@@ -372,6 +372,9 @@
     "ServiceName": "AWS Purchase Orders Console"
   },
   {
+    "ServiceName": "AWS Recycle Bin"
+  },
+  {
     "ServiceName": "AWS Resilience Hub Service"
   },
   {
@@ -928,9 +931,6 @@
   },
   {
     "ServiceName": "Network Manager"
-  },
-  {
-    "ServiceName": "Recycle Bin"
   },
   {
     "ServiceName": "Service Quotas"
