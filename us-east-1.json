@@ -846,6 +846,9 @@
     "ServiceName": "Amazon SageMaker"
   },
   {
+    "ServiceName": "Amazon SageMaker Ground Truth Synthetic"
+  },
+  {
     "ServiceName": "Amazon Session Manager Message Gateway Service"
   },
   {
