@@ -252,6 +252,9 @@
     "ServiceName": "AWS Identity and Access Management"
   },
   {
+    "ServiceName": "AWS Identity and Access Management Roles Anywhere"
+  },
+  {
     "ServiceName": "AWS Import Export"
   },
   {
@@ -796,6 +799,9 @@
   },
   {
     "ServiceName": "Amazon Redshift Data API"
+  },
+  {
+    "ServiceName": "Amazon Redshift Serverless"
   },
   {
     "ServiceName": "Amazon Rekognition"
