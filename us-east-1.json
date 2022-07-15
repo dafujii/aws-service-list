@@ -429,6 +429,9 @@
     "ServiceName": "AWS Signer"
   },
   {
+    "ServiceName": "AWS SimScape"
+  },
+  {
     "ServiceName": "AWS Snow Device Management"
   },
   {
