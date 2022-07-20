@@ -246,7 +246,7 @@
     "ServiceName": "AWS Identity Store"
   },
   {
-    "ServiceName": "AWS Identity Synchronization Service"
+    "ServiceName": "AWS Identity Sync"
   },
   {
     "ServiceName": "AWS Identity and Access Management"
