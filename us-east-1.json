@@ -441,6 +441,9 @@
     "ServiceName": "AWS Step Functions"
   },
   {
+    "ServiceName": "AWS Storage Gateway"
+  },
+  {
     "ServiceName": "AWS Support"
   },
   {
@@ -868,9 +871,6 @@
   },
   {
     "ServiceName": "Amazon SimpleDB"
-  },
-  {
-    "ServiceName": "Amazon Storage Gateway"
   },
   {
     "ServiceName": "Amazon Sumerian"
