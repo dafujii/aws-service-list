@@ -237,6 +237,9 @@
     "ServiceName": "AWS IAM Access Analyzer"
   },
   {
+    "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On)"
+  },
+  {
     "ServiceName": "AWS IQ"
   },
   {
@@ -327,6 +330,9 @@
     "ServiceName": "AWS Marketplace Management Portal"
   },
   {
+    "ServiceName": "AWS Marketplace Vendor Insights"
+  },
+  {
     "ServiceName": "AWS Microservice Extractor for .NET"
   },
   {
@@ -394,9 +400,6 @@
   },
   {
     "ServiceName": "AWS SQL Workbench"
-  },
-  {
-    "ServiceName": "AWS SSO"
   },
   {
     "ServiceName": "AWS SSO Directory"
