@@ -528,6 +528,9 @@
     "ServiceName": "Amazon CloudWatch"
   },
   {
+    "ServiceName": "Amazon CloudWatch Application Insights"
+  },
+  {
     "ServiceName": "Amazon CloudWatch Evidently"
   },
   {
@@ -916,9 +919,6 @@
   },
   {
     "ServiceName": "Application Discovery Arsenal"
-  },
-  {
-    "ServiceName": "CloudWatch Application Insights"
   },
   {
     "ServiceName": "Database Query Metadata Service"
