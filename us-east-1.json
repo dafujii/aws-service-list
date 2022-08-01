@@ -240,6 +240,9 @@
     "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On)"
   },
   {
+    "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On) directory"
+  },
+  {
     "ServiceName": "AWS IQ"
   },
   {
@@ -400,9 +403,6 @@
   },
   {
     "ServiceName": "AWS SQL Workbench"
-  },
-  {
-    "ServiceName": "AWS SSO Directory"
   },
   {
     "ServiceName": "AWS Savings Plans"
