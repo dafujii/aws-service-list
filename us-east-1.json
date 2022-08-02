@@ -321,6 +321,9 @@
     "ServiceName": "AWS License Manager"
   },
   {
+    "ServiceName": "AWS License Manager User Subscriptions"
+  },
+  {
     "ServiceName": "AWS Mainframe Modernization Service"
   },
   {
