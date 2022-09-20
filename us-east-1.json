@@ -63,13 +63,13 @@
     "ServiceName": "AWS Batch"
   },
   {
-    "ServiceName": "AWS Billing"
-  },
-  {
     "ServiceName": "AWS Billing "
   },
   {
     "ServiceName": "AWS Billing Conductor"
+  },
+  {
+    "ServiceName": "AWS Billing Console"
   },
   {
     "ServiceName": "AWS Budget Service"
