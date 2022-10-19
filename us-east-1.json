@@ -453,6 +453,9 @@
     "ServiceName": "AWS Support"
   },
   {
+    "ServiceName": "AWS Support App for Slack"
+  },
+  {
     "ServiceName": "AWS Support Plans"
   },
   {
