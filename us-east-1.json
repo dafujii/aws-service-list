@@ -24,6 +24,9 @@
     "ServiceName": "AWS App Runner"
   },
   {
+    "ServiceName": "AWS App2Container"
+  },
+  {
     "ServiceName": "AWS AppConfig"
   },
   {
@@ -253,6 +256,9 @@
   },
   {
     "ServiceName": "AWS Identity Store"
+  },
+  {
+    "ServiceName": "AWS Identity Store Auth"
   },
   {
     "ServiceName": "AWS Identity Sync"
