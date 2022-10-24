@@ -216,6 +216,12 @@
     "ServiceName": "AWS Elemental MediaTailor"
   },
   {
+    "ServiceName": "AWS Elemental Support Cases"
+  },
+  {
+    "ServiceName": "AWS Elemental Support Content"
+  },
+  {
     "ServiceName": "AWS Fault Injection Simulator"
   },
   {
@@ -946,12 +952,6 @@
   },
   {
     "ServiceName": "Elastic Load Balancing"
-  },
-  {
-    "ServiceName": "Elemental Support Cases"
-  },
-  {
-    "ServiceName": "Elemental Support Content"
   },
   {
     "ServiceName": "High-volume outbound communications"
