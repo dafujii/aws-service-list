@@ -24,6 +24,9 @@
     "ServiceName": "AWS App Runner"
   },
   {
+    "ServiceName": "AWS App2Container"
+  },
+  {
     "ServiceName": "AWS AppConfig"
   },
   {
