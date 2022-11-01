@@ -84,9 +84,6 @@
     "ServiceName": "AWS Certificate Manager"
   },
   {
-    "ServiceName": "AWS Certificate Manager Private Certificate Authority"
-  },
-  {
     "ServiceName": "AWS Chatbot"
   },
   {
@@ -318,9 +315,6 @@
     "ServiceName": "AWS IoT SiteWise"
   },
   {
-    "ServiceName": "AWS IoT Things Graph"
-  },
-  {
     "ServiceName": "AWS IoT TwinMaker"
   },
   {
@@ -399,6 +393,9 @@
     "ServiceName": "AWS Price List"
   },
   {
+    "ServiceName": "AWS Private Certificate Authority"
+  },
+  {
     "ServiceName": "AWS Proton"
   },
   {
@@ -465,7 +462,7 @@
     "ServiceName": "AWS Support"
   },
   {
-    "ServiceName": "AWS Support App for Slack"
+    "ServiceName": "AWS Support App in Slack"
   },
   {
     "ServiceName": "AWS Support Plans"
