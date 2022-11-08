@@ -411,6 +411,9 @@
     "ServiceName": "AWS Resource Access Manager"
   },
   {
+    "ServiceName": "AWS Resource Explorer"
+  },
+  {
     "ServiceName": "AWS Resource Groups"
   },
   {
