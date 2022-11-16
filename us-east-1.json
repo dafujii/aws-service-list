@@ -486,6 +486,9 @@
     "ServiceName": "AWS Systems Manager Incident Manager Contacts"
   },
   {
+    "ServiceName": "AWS Systems Manager for SAP"
+  },
+  {
     "ServiceName": "AWS Tag Editor"
   },
   {
