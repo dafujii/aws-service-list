@@ -567,6 +567,9 @@
     "ServiceName": "Amazon CloudWatch Evidently"
   },
   {
+    "ServiceName": "Amazon CloudWatch Internet Monitor"
+  },
+  {
     "ServiceName": "Amazon CloudWatch Logs"
   },
   {
