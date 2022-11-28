@@ -516,6 +516,9 @@
     "ServiceName": "AWS Well-Architected Tool"
   },
   {
+    "ServiceName": "AWS Wickr"
+  },
+  {
     "ServiceName": "AWS X-Ray"
   },
   {
@@ -565,6 +568,9 @@
   },
   {
     "ServiceName": "Amazon CloudWatch Logs"
+  },
+  {
+    "ServiceName": "Amazon CloudWatch Observability Access Manager"
   },
   {
     "ServiceName": "Amazon CloudWatch Synthetics"
