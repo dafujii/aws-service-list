@@ -450,6 +450,9 @@
     "ServiceName": "AWS Signer"
   },
   {
+    "ServiceName": "AWS SimSpace Weaver"
+  },
+  {
     "ServiceName": "AWS Snow Device Management"
   },
   {
@@ -919,6 +922,9 @@
   },
   {
     "ServiceName": "Amazon SageMaker Ground Truth Synthetic"
+  },
+  {
+    "ServiceName": "Amazon Security Lake"
   },
   {
     "ServiceName": "Amazon Session Manager Message Gateway Service"
