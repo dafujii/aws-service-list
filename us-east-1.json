@@ -870,6 +870,9 @@
     "ServiceName": "Amazon Route 53"
   },
   {
+    "ServiceName": "Amazon Route 53 Application Recovery Controller - Zonal Shift"
+  },
+  {
     "ServiceName": "Amazon Route 53 Domains"
   },
   {
