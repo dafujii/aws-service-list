@@ -819,6 +819,9 @@
     "ServiceName": "Amazon Nimble Studio"
   },
   {
+    "ServiceName": "Amazon Omics"
+  },
+  {
     "ServiceName": "Amazon OpenSearch Service"
   },
   {
