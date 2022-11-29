@@ -822,6 +822,9 @@
     "ServiceName": "Amazon Omics"
   },
   {
+    "ServiceName": "Amazon OpenSearch Serverless"
+  },
+  {
     "ServiceName": "Amazon OpenSearch Service"
   },
   {
