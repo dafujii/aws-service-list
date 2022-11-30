@@ -630,6 +630,9 @@
     "ServiceName": "Amazon DevOps Guru"
   },
   {
+    "ServiceName": "Amazon DocumentDB Elastic Clusters"
+  },
+  {
     "ServiceName": "Amazon DynamoDB"
   },
   {
@@ -952,6 +955,12 @@
   },
   {
     "ServiceName": "Amazon Translate"
+  },
+  {
+    "ServiceName": "Amazon VPC Lattice"
+  },
+  {
+    "ServiceName": "Amazon VPC Lattice Services"
   },
   {
     "ServiceName": "Amazon WorkDocs"
