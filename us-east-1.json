@@ -690,6 +690,9 @@
     "ServiceName": "Amazon EventBridge"
   },
   {
+    "ServiceName": "Amazon EventBridge Pipes"
+  },
+  {
     "ServiceName": "Amazon EventBridge Scheduler"
   },
   {
