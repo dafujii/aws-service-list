@@ -591,6 +591,9 @@
     "ServiceName": "Amazon CodeGuru Reviewer"
   },
   {
+    "ServiceName": "Amazon CodeWhisperer"
+  },
+  {
     "ServiceName": "Amazon Cognito Identity"
   },
   {
