@@ -330,6 +330,9 @@
     "ServiceName": "AWS License Manager"
   },
   {
+    "ServiceName": "AWS License Manager Linux Subscriptions Manager"
+  },
+  {
     "ServiceName": "AWS License Manager User Subscriptions"
   },
   {
