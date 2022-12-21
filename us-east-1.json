@@ -585,6 +585,9 @@
     "ServiceName": "Amazon CloudWatch Synthetics"
   },
   {
+    "ServiceName": "Amazon CodeCatalyst"
+  },
+  {
     "ServiceName": "Amazon CodeGuru"
   },
   {
