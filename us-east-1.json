@@ -756,6 +756,9 @@
     "ServiceName": "Amazon Kendra"
   },
   {
+    "ServiceName": "Amazon Kendra Intelligent Ranking"
+  },
+  {
     "ServiceName": "Amazon Keyspaces (for Apache Cassandra)"
   },
   {
