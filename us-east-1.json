@@ -228,6 +228,9 @@
     "ServiceName": "AWS Firewall Manager"
   },
   {
+    "ServiceName": "AWS Free Tier"
+  },
+  {
     "ServiceName": "AWS Global Accelerator"
   },
   {
@@ -274,6 +277,9 @@
   },
   {
     "ServiceName": "AWS Import Export"
+  },
+  {
+    "ServiceName": "AWS Invoicing Service"
   },
   {
     "ServiceName": "AWS IoT"
@@ -388,6 +394,9 @@
   },
   {
     "ServiceName": "AWS Panorama"
+  },
+  {
+    "ServiceName": "AWS Payments"
   },
   {
     "ServiceName": "AWS Performance Insights"
