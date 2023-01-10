@@ -144,6 +144,9 @@
     "ServiceName": "AWS Connector Service"
   },
   {
+    "ServiceName": "AWS Consolidated Billing"
+  },
+  {
     "ServiceName": "AWS Control Tower"
   },
   {
