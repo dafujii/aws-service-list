@@ -336,6 +336,9 @@
     "ServiceName": "AWS Lambda"
   },
   {
+    "ServiceName": "AWS Launch Wizard"
+  },
+  {
     "ServiceName": "AWS License Manager"
   },
   {
@@ -1027,9 +1030,6 @@
   },
   {
     "ServiceName": "High-volume outbound communications"
-  },
-  {
-    "ServiceName": "Launch Wizard"
   },
   {
     "ServiceName": "Manage - Amazon API Gateway"
