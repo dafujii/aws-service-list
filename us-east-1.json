@@ -87,6 +87,9 @@
     "ServiceName": "AWS Chatbot"
   },
   {
+    "ServiceName": "AWS Clean Rooms"
+  },
+  {
     "ServiceName": "AWS Cloud Map"
   },
   {
