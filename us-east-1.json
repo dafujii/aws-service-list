@@ -108,6 +108,9 @@
     "ServiceName": "AWS CloudTrail"
   },
   {
+    "ServiceName": "AWS CloudTrail Data"
+  },
+  {
     "ServiceName": "AWS CloudWatch RUM"
   },
   {
