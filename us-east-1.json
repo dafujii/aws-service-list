@@ -735,6 +735,9 @@
     "ServiceName": "Amazon FinSpace"
   },
   {
+    "ServiceName": "Amazon FinSpace API"
+  },
+  {
     "ServiceName": "Amazon Forecast"
   },
   {
