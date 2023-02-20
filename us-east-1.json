@@ -489,6 +489,9 @@
     "ServiceName": "AWS Storage Gateway"
   },
   {
+    "ServiceName": "AWS Supply Chain"
+  },
+  {
     "ServiceName": "AWS Support"
   },
   {
