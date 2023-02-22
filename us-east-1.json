@@ -555,6 +555,9 @@
     "ServiceName": "AWS service providing managed private networks"
   },
   {
+    "ServiceName": "AWS service to enable 5G automation"
+  },
+  {
     "ServiceName": "Alexa for Business"
   },
   {
