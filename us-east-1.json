@@ -525,6 +525,9 @@
     "ServiceName": "AWS Tax Settings"
   },
   {
+    "ServiceName": "AWS Telco Network Builder"
+  },
+  {
     "ServiceName": "AWS Tiros"
   },
   {
@@ -553,9 +556,6 @@
   },
   {
     "ServiceName": "AWS service providing managed private networks"
-  },
-  {
-    "ServiceName": "AWS service to enable 5G automation"
   },
   {
     "ServiceName": "Alexa for Business"
