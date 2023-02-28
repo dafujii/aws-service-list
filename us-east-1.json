@@ -624,6 +624,9 @@
     "ServiceName": "Amazon CodeGuru Reviewer"
   },
   {
+    "ServiceName": "Amazon CodeGuru Security"
+  },
+  {
     "ServiceName": "Amazon CodeWhisperer"
   },
   {
