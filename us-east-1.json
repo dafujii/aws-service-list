@@ -303,9 +303,6 @@
     "ServiceName": "AWS IoT Core Device Advisor"
   },
   {
-    "ServiceName": "AWS IoT Core for LoRaWAN"
-  },
-  {
     "ServiceName": "AWS IoT Device Tester"
   },
   {
@@ -331,6 +328,9 @@
   },
   {
     "ServiceName": "AWS IoT TwinMaker"
+  },
+  {
+    "ServiceName": "AWS IoT Wireless"
   },
   {
     "ServiceName": "AWS Key Management Service"
@@ -661,6 +661,12 @@
   },
   {
     "ServiceName": "Amazon Data Lifecycle Manager"
+  },
+  {
+    "ServiceName": "Amazon DataZone"
+  },
+  {
+    "ServiceName": "Amazon DataZone Control"
   },
   {
     "ServiceName": "Amazon Detective"
