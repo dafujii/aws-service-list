@@ -801,10 +801,10 @@
     "ServiceName": "Amazon Keyspaces (for Apache Cassandra)"
   },
   {
-    "ServiceName": "Amazon Kinesis"
+    "ServiceName": "Amazon Kinesis Analytics"
   },
   {
-    "ServiceName": "Amazon Kinesis Analytics"
+    "ServiceName": "Amazon Kinesis Data Streams"
   },
   {
     "ServiceName": "Amazon Kinesis Firehose"
