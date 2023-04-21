@@ -150,6 +150,9 @@
     "ServiceName": "AWS Connector Service"
   },
   {
+    "ServiceName": "AWS Console Mobile App"
+  },
+  {
     "ServiceName": "AWS Consolidated Billing"
   },
   {
@@ -432,7 +435,7 @@
     "ServiceName": "AWS Resilience Hub Service"
   },
   {
-    "ServiceName": "AWS Resource Access Manager"
+    "ServiceName": "AWS Resource Access Manager (RAM)"
   },
   {
     "ServiceName": "AWS Resource Explorer"
@@ -535,6 +538,12 @@
   },
   {
     "ServiceName": "AWS Trusted Advisor"
+  },
+  {
+    "ServiceName": "AWS User Notifications"
+  },
+  {
+    "ServiceName": "AWS User Notifications Contacts"
   },
   {
     "ServiceName": "AWS WAF"
