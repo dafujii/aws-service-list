@@ -165,6 +165,9 @@
     "ServiceName": "AWS Cost and Usage Report"
   },
   {
+    "ServiceName": "AWS Customer Verification Service"
+  },
+  {
     "ServiceName": "AWS Data Exchange"
   },
   {
@@ -889,6 +892,9 @@
   },
   {
     "ServiceName": "Amazon Omics"
+  },
+  {
+    "ServiceName": "Amazon OpenSearch Ingestion"
   },
   {
     "ServiceName": "Amazon OpenSearch Serverless"
