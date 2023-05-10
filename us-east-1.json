@@ -549,6 +549,9 @@
     "ServiceName": "AWS User Notifications Contacts"
   },
   {
+    "ServiceName": "AWS Verified Access"
+  },
+  {
     "ServiceName": "AWS WAF"
   },
   {
