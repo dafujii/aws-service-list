@@ -222,6 +222,9 @@
     "ServiceName": "AWS Elemental MediaPackage"
   },
   {
+    "ServiceName": "AWS Elemental MediaPackage V2"
+  },
+  {
     "ServiceName": "AWS Elemental MediaPackage VOD"
   },
   {
