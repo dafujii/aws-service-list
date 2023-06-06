@@ -702,6 +702,9 @@
     "ServiceName": "Amazon DynamoDB Accelerator (DAX)"
   },
   {
+    "ServiceName": "Amazon EC2"
+  },
+  {
     "ServiceName": "Amazon EC2 Auto Scaling"
   },
   {
@@ -721,9 +724,6 @@
   },
   {
     "ServiceName": "Amazon Elastic Block Store"
-  },
-  {
-    "ServiceName": "Amazon Elastic Compute Cloud (EC2)"
   },
   {
     "ServiceName": "Amazon Elastic Container Registry"
