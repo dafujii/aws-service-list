@@ -993,6 +993,9 @@
     "ServiceName": "Amazon SNS"
   },
   {
+    "ServiceName": "Amazon SQS"
+  },
+  {
     "ServiceName": "Amazon SageMaker"
   },
   {
@@ -1006,9 +1009,6 @@
   },
   {
     "ServiceName": "Amazon Session Manager Message Gateway Service"
-  },
-  {
-    "ServiceName": "Amazon Simple Queue Service (SQS)"
   },
   {
     "ServiceName": "Amazon Simple Workflow Service"
@@ -1033,6 +1033,9 @@
   },
   {
     "ServiceName": "Amazon VPC Lattice Services"
+  },
+  {
+    "ServiceName": "Amazon Verified Permissions"
   },
   {
     "ServiceName": "Amazon WorkDocs"
