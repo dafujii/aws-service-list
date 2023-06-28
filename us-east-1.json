@@ -30,6 +30,9 @@
     "ServiceName": "AWS AppConfig"
   },
   {
+    "ServiceName": "AWS AppFabric"
+  },
+  {
     "ServiceName": "AWS AppSync"
   },
   {
