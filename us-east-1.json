@@ -600,6 +600,9 @@
     "ServiceName": "Amazon Athena"
   },
   {
+    "ServiceName": "Amazon Bedrock"
+  },
+  {
     "ServiceName": "Amazon Braket"
   },
   {
