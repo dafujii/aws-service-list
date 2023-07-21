@@ -267,6 +267,9 @@
     "ServiceName": "AWS Health APIs and Notifications"
   },
   {
+    "ServiceName": "AWS HealthImaging"
+  },
+  {
     "ServiceName": "AWS IAM Access Analyzer"
   },
   {
