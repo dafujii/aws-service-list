@@ -243,6 +243,9 @@
     "ServiceName": "AWS Elemental Support Content"
   },
   {
+    "ServiceName": "AWS Entity Resolution"
+  },
+  {
     "ServiceName": "AWS Fault Injection Simulator"
   },
   {
@@ -268,6 +271,12 @@
   },
   {
     "ServiceName": "AWS HealthImaging"
+  },
+  {
+    "ServiceName": "AWS HealthLake"
+  },
+  {
+    "ServiceName": "AWS HealthOmics"
   },
   {
     "ServiceName": "AWS IAM Access Analyzer"
@@ -804,9 +813,6 @@
     "ServiceName": "Amazon GuardDuty"
   },
   {
-    "ServiceName": "Amazon HealthLake"
-  },
-  {
     "ServiceName": "Amazon Honeycode"
   },
   {
@@ -873,6 +879,9 @@
     "ServiceName": "Amazon Managed Blockchain"
   },
   {
+    "ServiceName": "Amazon Managed Blockchain Query"
+  },
+  {
     "ServiceName": "Amazon Managed Grafana"
   },
   {
@@ -907,9 +916,6 @@
   },
   {
     "ServiceName": "Amazon Nimble Studio"
-  },
-  {
-    "ServiceName": "Amazon Omics"
   },
   {
     "ServiceName": "Amazon OpenSearch Ingestion"
