@@ -456,7 +456,7 @@
     "ServiceName": "AWS Recycle Bin"
   },
   {
-    "ServiceName": "AWS Resilience Hub Service"
+    "ServiceName": "AWS Resilience Hub"
   },
   {
     "ServiceName": "AWS Resource Access Manager (RAM)"
