@@ -48,6 +48,9 @@
     "ServiceName": "AWS Application Migration Service"
   },
   {
+    "ServiceName": "AWS Application Transformation Service"
+  },
+  {
     "ServiceName": "AWS Artifact"
   },
   {
@@ -549,9 +552,6 @@
     "ServiceName": "AWS Systems Manager for SAP"
   },
   {
-    "ServiceName": "AWS Tag Editor"
-  },
-  {
     "ServiceName": "AWS Tax Settings"
   },
   {
@@ -802,9 +802,6 @@
   },
   {
     "ServiceName": "Amazon GameLift"
-  },
-  {
-    "ServiceName": "Amazon GameSparks"
   },
   {
     "ServiceName": "Amazon GroundTruth Labeling"
