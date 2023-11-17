@@ -291,6 +291,9 @@
     "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On) directory"
   },
   {
+    "ServiceName": "AWS IAM Identity Center OIDC service"
+  },
+  {
     "ServiceName": "AWS IQ"
   },
   {
