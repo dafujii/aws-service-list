@@ -636,6 +636,9 @@
     "ServiceName": "Amazon CloudFront"
   },
   {
+    "ServiceName": "Amazon CloudFront KeyValueStore"
+  },
+  {
     "ServiceName": "Amazon CloudSearch"
   },
   {
