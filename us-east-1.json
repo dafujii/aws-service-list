@@ -168,6 +168,9 @@
     "ServiceName": "AWS Cost Explorer Service"
   },
   {
+    "ServiceName": "AWS Cost Optimization Hub"
+  },
+  {
     "ServiceName": "AWS Cost and Usage Report"
   },
   {
