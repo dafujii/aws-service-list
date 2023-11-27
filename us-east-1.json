@@ -60,6 +60,9 @@
     "ServiceName": "AWS Auto Scaling"
   },
   {
+    "ServiceName": "AWS B2B Data Interchange"
+  },
+  {
     "ServiceName": "AWS Backup"
   },
   {
@@ -73,6 +76,9 @@
   },
   {
     "ServiceName": "AWS Billing"
+  },
+  {
+    "ServiceName": "AWS Billing And Cost Management Data Exports"
   },
   {
     "ServiceName": "AWS Billing Conductor"
@@ -747,6 +753,9 @@
     "ServiceName": "Amazon EC2 Instance Connect"
   },
   {
+    "ServiceName": "Amazon EKS Auth"
+  },
+  {
     "ServiceName": "Amazon EMR Serverless"
   },
   {
@@ -1081,6 +1090,9 @@
   },
   {
     "ServiceName": "Amazon WorkSpaces Application Manager"
+  },
+  {
+    "ServiceName": "Amazon WorkSpaces Thin Client"
   },
   {
     "ServiceName": "Amazon WorkSpaces Web"
