@@ -435,6 +435,9 @@
     "ServiceName": "AWS Network Manager"
   },
   {
+    "ServiceName": "AWS Network Manager Chat"
+  },
+  {
     "ServiceName": "AWS OpsWorks"
   },
   {
@@ -723,9 +726,6 @@
     "ServiceName": "Amazon Connect Voice ID"
   },
   {
-    "ServiceName": "Amazon Connect Wisdom"
-  },
-  {
     "ServiceName": "Amazon Data Lifecycle Manager"
   },
   {
@@ -846,6 +846,9 @@
     "ServiceName": "Amazon Inspector2"
   },
   {
+    "ServiceName": "Amazon InspectorScan"
+  },
+  {
     "ServiceName": "Amazon Interactive Video Service"
   },
   {
@@ -964,6 +967,15 @@
   },
   {
     "ServiceName": "Amazon Polly"
+  },
+  {
+    "ServiceName": "Amazon Q"
+  },
+  {
+    "ServiceName": "Amazon Q Business"
+  },
+  {
+    "ServiceName": "Amazon Q in Connect"
   },
   {
     "ServiceName": "Amazon QLDB"
