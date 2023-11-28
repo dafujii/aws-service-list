@@ -942,6 +942,9 @@
     "ServiceName": "Amazon Nimble Studio"
   },
   {
+    "ServiceName": "Amazon One Enterprise"
+  },
+  {
     "ServiceName": "Amazon OpenSearch Ingestion"
   },
   {
