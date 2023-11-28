@@ -207,6 +207,9 @@
     "ServiceName": "AWS Device Farm"
   },
   {
+    "ServiceName": "AWS Diagnostic tools"
+  },
+  {
     "ServiceName": "AWS Direct Connect"
   },
   {
@@ -607,6 +610,9 @@
   },
   {
     "ServiceName": "AWS X-Ray"
+  },
+  {
+    "ServiceName": "AWS re:Post Private"
   },
   {
     "ServiceName": "AWS service providing managed private networks"
