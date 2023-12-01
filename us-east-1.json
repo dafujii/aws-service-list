@@ -102,6 +102,9 @@
     "ServiceName": "AWS Clean Rooms"
   },
   {
+    "ServiceName": "AWS Clean Rooms ML"
+  },
+  {
     "ServiceName": "AWS Cloud Map"
   },
   {
@@ -942,6 +945,9 @@
     "ServiceName": "Amazon Neptune"
   },
   {
+    "ServiceName": "Amazon Neptune Analytics"
+  },
+  {
     "ServiceName": "Amazon Nimble Studio"
   },
   {
@@ -1033,6 +1039,9 @@
   },
   {
     "ServiceName": "Amazon S3"
+  },
+  {
+    "ServiceName": "Amazon S3 Express"
   },
   {
     "ServiceName": "Amazon S3 Glacier"
