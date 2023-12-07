@@ -264,7 +264,7 @@
     "ServiceName": "AWS Entity Resolution"
   },
   {
-    "ServiceName": "AWS Fault Injection Simulator"
+    "ServiceName": "AWS Fault Injection Service"
   },
   {
     "ServiceName": "AWS Firewall Manager"
