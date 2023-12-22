@@ -678,6 +678,9 @@
     "ServiceName": "Amazon CloudWatch Logs"
   },
   {
+    "ServiceName": "Amazon CloudWatch Network Monitor"
+  },
+  {
     "ServiceName": "Amazon CloudWatch Observability Access Manager"
   },
   {
