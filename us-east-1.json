@@ -1153,5 +1153,8 @@
   },
   {
     "ServiceName": "Service Quotas"
+  },
+  {
+    "ServiceName": "Tag Editor"
   }
 ]
