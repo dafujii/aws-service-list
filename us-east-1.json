@@ -939,6 +939,9 @@
     "ServiceName": "Amazon Message Delivery Service"
   },
   {
+    "ServiceName": "Amazon Message Gateway Service"
+  },
+  {
     "ServiceName": "Amazon Mobile Analytics"
   },
   {
@@ -1075,9 +1078,6 @@
   },
   {
     "ServiceName": "Amazon Security Lake"
-  },
-  {
-    "ServiceName": "Amazon Session Manager Message Gateway Service"
   },
   {
     "ServiceName": "Amazon Simple Workflow Service"
