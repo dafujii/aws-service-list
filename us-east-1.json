@@ -1092,7 +1092,7 @@
     "ServiceName": "Amazon Timestream"
   },
   {
-    "ServiceName": "Amazon Timestream Influxdb"
+    "ServiceName": "Amazon Timestream InfluxDB"
   },
   {
     "ServiceName": "Amazon Transcribe"
