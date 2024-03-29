@@ -138,6 +138,9 @@
     "ServiceName": "AWS CodeCommit"
   },
   {
+    "ServiceName": "AWS CodeConnections"
+  },
+  {
     "ServiceName": "AWS CodeDeploy"
   },
   {
