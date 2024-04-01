@@ -201,6 +201,9 @@
     "ServiceName": "AWS Database Migration Service"
   },
   {
+    "ServiceName": "AWS Deadline Cloud"
+  },
+  {
     "ServiceName": "AWS DeepComposer"
   },
   {
