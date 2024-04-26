@@ -540,6 +540,9 @@
     "ServiceName": "AWS Signer"
   },
   {
+    "ServiceName": "AWS Signin"
+  },
+  {
     "ServiceName": "AWS SimSpace Weaver"
   },
   {
