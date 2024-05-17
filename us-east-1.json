@@ -609,6 +609,9 @@
     "ServiceName": "AWS User Notifications Contacts"
   },
   {
+    "ServiceName": "AWS User Subscriptions"
+  },
+  {
     "ServiceName": "AWS Verified Access"
   },
   {
