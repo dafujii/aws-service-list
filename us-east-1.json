@@ -687,6 +687,9 @@
     "ServiceName": "Amazon CloudWatch Application Insights"
   },
   {
+    "ServiceName": "Amazon CloudWatch Application Signals"
+  },
+  {
     "ServiceName": "Amazon CloudWatch Evidently"
   },
   {
@@ -1152,10 +1155,10 @@
     "ServiceName": "Amazon WorkSpaces Application Manager"
   },
   {
-    "ServiceName": "Amazon WorkSpaces Thin Client"
+    "ServiceName": "Amazon WorkSpaces Secure Browser"
   },
   {
-    "ServiceName": "Amazon WorkSpaces Web"
+    "ServiceName": "Amazon WorkSpaces Thin Client"
   },
   {
     "ServiceName": "AmazonMediaImport"
