@@ -483,6 +483,9 @@
     "ServiceName": "AWS Private CA Connector for Active Directory"
   },
   {
+    "ServiceName": "AWS Private CA Connector for SCEP"
+  },
+  {
     "ServiceName": "AWS Private Certificate Authority"
   },
   {
