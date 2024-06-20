@@ -1110,6 +1110,9 @@
     "ServiceName": "Amazon SageMaker geospatial capabilities"
   },
   {
+    "ServiceName": "Amazon SageMaker with MLflow"
+  },
+  {
     "ServiceName": "Amazon Security Lake"
   },
   {
