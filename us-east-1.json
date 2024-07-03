@@ -594,6 +594,9 @@
     "ServiceName": "AWS Systems Manager Incident Manager Contacts"
   },
   {
+    "ServiceName": "AWS Systems Manager Quick Setup"
+  },
+  {
     "ServiceName": "AWS Systems Manager for SAP"
   },
   {
