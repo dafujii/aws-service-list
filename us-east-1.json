@@ -471,6 +471,9 @@
     "ServiceName": "AWS Panorama"
   },
   {
+    "ServiceName": "AWS Parallel Computing Service"
+  },
+  {
     "ServiceName": "AWS Partner central account management"
   },
   {
