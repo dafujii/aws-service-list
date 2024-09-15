@@ -378,9 +378,6 @@
     "ServiceName": "AWS IoT Jobs DataPlane"
   },
   {
-    "ServiceName": "AWS IoT RoboRunner"
-  },
-  {
     "ServiceName": "AWS IoT SiteWise"
   },
   {
