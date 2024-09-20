@@ -231,6 +231,9 @@
     "ServiceName": "AWS Directory Service"
   },
   {
+    "ServiceName": "AWS Directory Service Data"
+  },
+  {
     "ServiceName": "AWS Elastic Beanstalk"
   },
   {
