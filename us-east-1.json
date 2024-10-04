@@ -1071,7 +1071,7 @@
     "ServiceName": "Amazon Route 53 Domains"
   },
   {
-    "ServiceName": "Amazon Route 53 Profiles enables sharing DNS settings with VPCs"
+    "ServiceName": "Amazon Route 53 Profiles"
   },
   {
     "ServiceName": "Amazon Route 53 Recovery Cluster"
