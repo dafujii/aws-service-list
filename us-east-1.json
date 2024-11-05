@@ -930,6 +930,15 @@
     "ServiceName": "Amazon Location"
   },
   {
+    "ServiceName": "Amazon Location Service Maps"
+  },
+  {
+    "ServiceName": "Amazon Location Service Places"
+  },
+  {
+    "ServiceName": "Amazon Location Service Routes"
+  },
+  {
     "ServiceName": "Amazon Lookout for Equipment"
   },
   {
