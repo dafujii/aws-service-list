@@ -477,6 +477,9 @@
     "ServiceName": "AWS Parallel Computing Service"
   },
   {
+    "ServiceName": "AWS Partner Central Selling"
+  },
+  {
     "ServiceName": "AWS Partner central account management"
   },
   {
@@ -675,6 +678,9 @@
     "ServiceName": "Amazon AppStream 2.0"
   },
   {
+    "ServiceName": "Amazon Application Recovery Controller - Zonal Shift"
+  },
+  {
     "ServiceName": "Amazon Athena"
   },
   {
@@ -766,6 +772,9 @@
   },
   {
     "ServiceName": "Amazon Connect Customer Profiles"
+  },
+  {
+    "ServiceName": "Amazon Connect Outbound Campaigns"
   },
   {
     "ServiceName": "Amazon Connect Voice ID"
@@ -1080,9 +1089,6 @@
     "ServiceName": "Amazon Route 53"
   },
   {
-    "ServiceName": "Amazon Route 53 Application Recovery Controller - Zonal Shift"
-  },
-  {
     "ServiceName": "Amazon Route 53 Domains"
   },
   {
@@ -1207,9 +1213,6 @@
   },
   {
     "ServiceName": "Elastic Load Balancing"
-  },
-  {
-    "ServiceName": "High-volume outbound communications"
   },
   {
     "ServiceName": "Manage - Amazon API Gateway"
