@@ -657,7 +657,7 @@
     "ServiceName": "AWS X-Ray"
   },
   {
-    "ServiceName": "AWS re:Post Private"
+    "ServiceName": "AWS rePost Private"
   },
   {
     "ServiceName": "AWS service providing managed private networks"
@@ -1035,7 +1035,7 @@
     "ServiceName": "Amazon Pinpoint"
   },
   {
-    "ServiceName": "Amazon Pinpoint SMS Voice V2"
+    "ServiceName": "Amazon Pinpoint SMS and Voice Service"
   },
   {
     "ServiceName": "Amazon Polly"
