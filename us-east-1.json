@@ -84,6 +84,9 @@
     "ServiceName": "AWS Billing And Cost Management Data Exports"
   },
   {
+    "ServiceName": "AWS Billing And Cost Management Pricing Calculator"
+  },
+  {
     "ServiceName": "AWS Billing Conductor"
   },
   {
