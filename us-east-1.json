@@ -507,6 +507,9 @@
     "ServiceName": "AWS Private Certificate Authority"
   },
   {
+    "ServiceName": "AWS PrivateLink"
+  },
+  {
     "ServiceName": "AWS Proton"
   },
   {
