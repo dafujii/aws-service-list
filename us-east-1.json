@@ -735,6 +735,9 @@
     "ServiceName": "Amazon CloudWatch Observability Access Manager"
   },
   {
+    "ServiceName": "Amazon CloudWatch Observability Admin Service"
+  },
+  {
     "ServiceName": "Amazon CloudWatch Synthetics"
   },
   {
