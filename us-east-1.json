@@ -675,6 +675,9 @@
     "ServiceName": "Alexa for Business"
   },
   {
+    "ServiceName": "Amazon AI Operations"
+  },
+  {
     "ServiceName": "Amazon API Gateway"
   },
   {
