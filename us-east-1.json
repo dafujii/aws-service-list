@@ -546,6 +546,9 @@
     "ServiceName": "AWS Security Hub"
   },
   {
+    "ServiceName": "AWS Security Incident Response"
+  },
+  {
     "ServiceName": "AWS Security Token Service"
   },
   {
@@ -1225,6 +1228,9 @@
   },
   {
     "ServiceName": "Manage - Amazon API Gateway"
+  },
+  {
+    "ServiceName": "Network Flow Monitor"
   },
   {
     "ServiceName": "Service Quotas"
