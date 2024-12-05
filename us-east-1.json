@@ -696,6 +696,9 @@
     "ServiceName": "Amazon Athena"
   },
   {
+    "ServiceName": "Amazon Aurora DSQL"
+  },
+  {
     "ServiceName": "Amazon Bedrock"
   },
   {
@@ -1134,6 +1137,9 @@
     "ServiceName": "Amazon S3 Object Lambda"
   },
   {
+    "ServiceName": "Amazon S3 Tables"
+  },
+  {
     "ServiceName": "Amazon S3 on Outposts"
   },
   {
@@ -1150,6 +1156,9 @@
   },
   {
     "ServiceName": "Amazon SageMaker Ground Truth Synthetic"
+  },
+  {
+    "ServiceName": "Amazon SageMaker data science assistant"
   },
   {
     "ServiceName": "Amazon SageMaker geospatial capabilities"
