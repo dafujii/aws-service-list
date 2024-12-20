@@ -72,6 +72,9 @@
     "ServiceName": "AWS Backup Gateway"
   },
   {
+    "ServiceName": "AWS Backup Search"
+  },
+  {
     "ServiceName": "AWS Backup storage"
   },
   {
