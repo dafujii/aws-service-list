@@ -861,9 +861,6 @@
     "ServiceName": "Amazon Elastic File System"
   },
   {
-    "ServiceName": "Amazon Elastic Inference"
-  },
-  {
     "ServiceName": "Amazon Elastic Kubernetes Service"
   },
   {
