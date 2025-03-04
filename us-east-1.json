@@ -399,6 +399,9 @@
     "ServiceName": "AWS IoT Wireless"
   },
   {
+    "ServiceName": "AWS IoT managed integrations feature of IoT Device Management"
+  },
+  {
     "ServiceName": "AWS Key Management Service"
   },
   {
