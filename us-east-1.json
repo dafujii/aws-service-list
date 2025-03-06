@@ -906,6 +906,9 @@
     "ServiceName": "Amazon GameLift"
   },
   {
+    "ServiceName": "Amazon GameLift Streams"
+  },
+  {
     "ServiceName": "Amazon GroundTruth Labeling"
   },
   {
