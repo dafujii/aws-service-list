@@ -636,6 +636,9 @@
     "ServiceName": "AWS Transfer Family"
   },
   {
+    "ServiceName": "AWS Transform"
+  },
+  {
     "ServiceName": "AWS Trusted Advisor"
   },
   {
@@ -741,7 +744,7 @@
     "ServiceName": "Amazon CloudWatch Logs"
   },
   {
-    "ServiceName": "Amazon CloudWatch Network Monitor"
+    "ServiceName": "Amazon CloudWatch Network Synthetic Monitor"
   },
   {
     "ServiceName": "Amazon CloudWatch Observability Access Manager"
