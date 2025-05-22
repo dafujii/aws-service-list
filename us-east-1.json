@@ -321,13 +321,13 @@
     "ServiceName": "AWS IAM Access Analyzer"
   },
   {
-    "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On)"
-  },
-  {
-    "ServiceName": "AWS IAM Identity Center (successor to AWS Single Sign-On) directory"
+    "ServiceName": "AWS IAM Identity Center"
   },
   {
     "ServiceName": "AWS IAM Identity Center OIDC service"
+  },
+  {
+    "ServiceName": "AWS IAM Identity Center directory"
   },
   {
     "ServiceName": "AWS IQ"
@@ -562,6 +562,9 @@
   },
   {
     "ServiceName": "AWS Service Catalog"
+  },
+  {
+    "ServiceName": "AWS Service for managing account level display settings"
   },
   {
     "ServiceName": "AWS Shield"
