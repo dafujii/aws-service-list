@@ -564,9 +564,6 @@
     "ServiceName": "AWS Service Catalog"
   },
   {
-    "ServiceName": "AWS Service for managing account level display settings"
-  },
-  {
     "ServiceName": "AWS Shield"
   },
   {
@@ -1165,9 +1162,6 @@
   },
   {
     "ServiceName": "Amazon SageMaker"
-  },
-  {
-    "ServiceName": "Amazon SageMaker Ground Truth Synthetic"
   },
   {
     "ServiceName": "Amazon SageMaker data science assistant"
