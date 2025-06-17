@@ -597,6 +597,9 @@
     "ServiceName": "AWS Support App in Slack"
   },
   {
+    "ServiceName": "AWS Support Console"
+  },
+  {
     "ServiceName": "AWS Support Plans"
   },
   {
@@ -667,6 +670,9 @@
   },
   {
     "ServiceName": "AWS Wickr"
+  },
+  {
+    "ServiceName": "AWS WorkSpaces Managed Instances"
   },
   {
     "ServiceName": "AWS X-Ray"
@@ -871,6 +877,9 @@
   },
   {
     "ServiceName": "Amazon Elastic Transcoder"
+  },
+  {
+    "ServiceName": "Amazon Elastic VMware Service"
   },
   {
     "ServiceName": "Amazon EventBridge"
