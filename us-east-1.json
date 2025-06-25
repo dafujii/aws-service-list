@@ -912,7 +912,7 @@
     "ServiceName": "Amazon FreeRTOS"
   },
   {
-    "ServiceName": "Amazon GameLift"
+    "ServiceName": "Amazon GameLift Servers"
   },
   {
     "ServiceName": "Amazon GameLift Streams"
