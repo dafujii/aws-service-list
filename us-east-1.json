@@ -387,6 +387,9 @@
     "ServiceName": "AWS IoT Jobs DataPlane"
   },
   {
+    "ServiceName": "AWS IoT Managed Integrations"
+  },
+  {
     "ServiceName": "AWS IoT SiteWise"
   },
   {
@@ -394,9 +397,6 @@
   },
   {
     "ServiceName": "AWS IoT Wireless"
-  },
-  {
-    "ServiceName": "AWS IoT managed integrations feature of IoT Device Management"
   },
   {
     "ServiceName": "AWS Key Management Service"
@@ -559,6 +559,9 @@
   },
   {
     "ServiceName": "AWS Serverless Application Repository"
+  },
+  {
+    "ServiceName": "AWS Service - Oracle Database@AWS"
   },
   {
     "ServiceName": "AWS Service Catalog"
