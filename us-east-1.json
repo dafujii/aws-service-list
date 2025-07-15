@@ -570,6 +570,9 @@
     "ServiceName": "AWS Shield"
   },
   {
+    "ServiceName": "AWS Shield network security director"
+  },
+  {
     "ServiceName": "AWS Signer"
   },
   {
