@@ -609,9 +609,6 @@
     "ServiceName": "AWS Support Plans"
   },
   {
-    "ServiceName": "AWS Support Recommendations"
-  },
-  {
     "ServiceName": "AWS Sustainability"
   },
   {
@@ -718,6 +715,9 @@
   },
   {
     "ServiceName": "Amazon Bedrock"
+  },
+  {
+    "ServiceName": "Amazon Bedrock Agentcore"
   },
   {
     "ServiceName": "Amazon Braket"
@@ -1162,6 +1162,9 @@
   },
   {
     "ServiceName": "Amazon S3 Tables"
+  },
+  {
+    "ServiceName": "Amazon S3 Vectors"
   },
   {
     "ServiceName": "Amazon S3 on Outposts"
