@@ -90,10 +90,16 @@
     "ServiceName": "AWS Billing And Cost Management Pricing Calculator"
   },
   {
+    "ServiceName": "AWS Billing And Cost Management Recommended Actions"
+  },
+  {
     "ServiceName": "AWS Billing Conductor"
   },
   {
     "ServiceName": "AWS Billing Console"
+  },
+  {
+    "ServiceName": "AWS Billing and Cost Management Dashboards"
   },
   {
     "ServiceName": "AWS Budget Service"
@@ -567,6 +573,9 @@
     "ServiceName": "AWS Service Catalog"
   },
   {
+    "ServiceName": "AWS Service for managing AWS Console user experience capabilities."
+  },
+  {
     "ServiceName": "AWS Shield"
   },
   {
@@ -694,6 +703,9 @@
   },
   {
     "ServiceName": "Amazon API Gateway"
+  },
+  {
+    "ServiceName": "Amazon ARC Region switch"
   },
   {
     "ServiceName": "Amazon AppFlow"
