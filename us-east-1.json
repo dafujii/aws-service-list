@@ -3,6 +3,9 @@
     "ServiceName": "AWS Account Management"
   },
   {
+    "ServiceName": "AWS Action Recommendations"
+  },
+  {
     "ServiceName": "AWS Activate"
   },
   {
@@ -40,9 +43,6 @@
   },
   {
     "ServiceName": "AWS Application Auto Scaling"
-  },
-  {
-    "ServiceName": "AWS Application Cost Profiler Service"
   },
   {
     "ServiceName": "AWS Application Discovery Service"
@@ -364,9 +364,6 @@
   },
   {
     "ServiceName": "AWS IoT"
-  },
-  {
-    "ServiceName": "AWS IoT 1-Click"
   },
   {
     "ServiceName": "AWS IoT Analytics"
