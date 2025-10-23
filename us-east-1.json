@@ -522,6 +522,9 @@
     "ServiceName": "AWS Purchase Orders Console"
   },
   {
+    "ServiceName": "AWS RTB Fabric"
+  },
+  {
     "ServiceName": "AWS Recycle Bin"
   },
   {
