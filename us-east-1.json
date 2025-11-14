@@ -546,6 +546,9 @@
     "ServiceName": "AWS SQL Workbench"
   },
   {
+    "ServiceName": "AWS SageMaker Unified Studio MCP is a managed MCP solution for AWS data processing services like EMR, Glue, Athena"
+  },
+  {
     "ServiceName": "AWS Savings Plans"
   },
   {
