@@ -507,6 +507,9 @@
     "ServiceName": "AWS Price List"
   },
   {
+    "ServiceName": "AWS PricingPlanManager Service"
+  },
+  {
     "ServiceName": "AWS Private CA Connector for Active Directory"
   },
   {
