@@ -423,6 +423,9 @@
     "ServiceName": "AWS License Manager User Subscriptions"
   },
   {
+    "ServiceName": "AWS MWAA Serverless"
+  },
+  {
     "ServiceName": "AWS Mainframe Modernization Application Testing"
   },
   {
@@ -865,6 +868,9 @@
   },
   {
     "ServiceName": "Amazon EKS Auth"
+  },
+  {
+    "ServiceName": "Amazon EKS MCP Server"
   },
   {
     "ServiceName": "Amazon EMR Serverless"
