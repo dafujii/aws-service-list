@@ -423,6 +423,9 @@
     "ServiceName": "AWS License Manager User Subscriptions"
   },
   {
+    "ServiceName": "AWS MCP Server"
+  },
+  {
     "ServiceName": "AWS MWAA Serverless"
   },
   {
@@ -547,6 +550,9 @@
   },
   {
     "ServiceName": "AWS RoboMaker"
+  },
+  {
+    "ServiceName": "AWS Route53 Global Resolver"
   },
   {
     "ServiceName": "AWS SQL Workbench"
