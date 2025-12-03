@@ -228,6 +228,9 @@
     "ServiceName": "AWS DeepRacer"
   },
   {
+    "ServiceName": "AWS DevOps Agent Service"
+  },
+  {
     "ServiceName": "AWS Device Farm"
   },
   {
@@ -564,6 +567,9 @@
     "ServiceName": "AWS Secrets Manager"
   },
   {
+    "ServiceName": "AWS Security Agent"
+  },
+  {
     "ServiceName": "AWS Security Hub"
   },
   {
@@ -664,6 +670,9 @@
   },
   {
     "ServiceName": "AWS Transform"
+  },
+  {
+    "ServiceName": "AWS Transform Custom"
   },
   {
     "ServiceName": "AWS Trusted Advisor"
