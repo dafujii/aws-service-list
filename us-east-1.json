@@ -177,6 +177,9 @@
     "ServiceName": "AWS Compute Optimizer"
   },
   {
+    "ServiceName": "AWS Compute Optimizer Automation"
+  },
+  {
     "ServiceName": "AWS Config"
   },
   {
@@ -220,9 +223,6 @@
   },
   {
     "ServiceName": "AWS Deadline Cloud"
-  },
-  {
-    "ServiceName": "AWS DeepComposer"
   },
   {
     "ServiceName": "AWS DeepRacer"
@@ -717,6 +717,9 @@
     "ServiceName": "AWS service providing managed private networks"
   },
   {
+    "ServiceName": "AWS service to manage AI agents for UI workflows"
+  },
+  {
     "ServiceName": "Alexa for Business"
   },
   {
@@ -751,6 +754,9 @@
   },
   {
     "ServiceName": "Amazon Bedrock Agentcore"
+  },
+  {
+    "ServiceName": "Amazon Bedrock Powered by AWS Mantle"
   },
   {
     "ServiceName": "Amazon Braket"
