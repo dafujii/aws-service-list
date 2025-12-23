@@ -672,7 +672,7 @@
     "ServiceName": "AWS Transform"
   },
   {
-    "ServiceName": "AWS Transform Custom"
+    "ServiceName": "AWS Transform custom"
   },
   {
     "ServiceName": "AWS Trusted Advisor"
@@ -715,9 +715,6 @@
   },
   {
     "ServiceName": "AWS service providing managed private networks"
-  },
-  {
-    "ServiceName": "AWS service to manage AI agents for UI workflows"
   },
   {
     "ServiceName": "Alexa for Business"
@@ -1093,6 +1090,9 @@
   },
   {
     "ServiceName": "Amazon Nimble Studio"
+  },
+  {
+    "ServiceName": "Amazon Nova Act"
   },
   {
     "ServiceName": "Amazon One Enterprise"
