@@ -885,6 +885,9 @@
     "ServiceName": "Amazon EC2 Instance Connect"
   },
   {
+    "ServiceName": "Amazon ECS MCP Service"
+  },
+  {
     "ServiceName": "Amazon EKS Auth"
   },
   {
