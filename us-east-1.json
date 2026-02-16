@@ -978,6 +978,9 @@
     "ServiceName": "Amazon Inspector2"
   },
   {
+    "ServiceName": "Amazon Inspector2 Telemetry Channel"
+  },
+  {
     "ServiceName": "Amazon InspectorScan"
   },
   {
