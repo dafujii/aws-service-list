@@ -255,6 +255,9 @@
     "ServiceName": "AWS Elemental Appliances and Software Activation Service"
   },
   {
+    "ServiceName": "AWS Elemental Inference"
+  },
+  {
     "ServiceName": "AWS Elemental MediaConnect"
   },
   {
@@ -358,6 +361,9 @@
   },
   {
     "ServiceName": "AWS Import Export"
+  },
+  {
+    "ServiceName": "AWS Interconnect"
   },
   {
     "ServiceName": "AWS Invoicing Service"
@@ -588,9 +594,6 @@
     "ServiceName": "AWS Service Catalog"
   },
   {
-    "ServiceName": "AWS Service for managing AWS Console user experience capabilities."
-  },
-  {
     "ServiceName": "AWS Shield"
   },
   {
@@ -673,6 +676,9 @@
   },
   {
     "ServiceName": "AWS Trusted Advisor"
+  },
+  {
+    "ServiceName": "AWS User Experience Customization"
   },
   {
     "ServiceName": "AWS User Notifications"
@@ -841,6 +847,9 @@
   },
   {
     "ServiceName": "Amazon Connect Customer Profiles"
+  },
+  {
+    "ServiceName": "Amazon Connect Health"
   },
   {
     "ServiceName": "Amazon Connect Outbound Campaigns"
