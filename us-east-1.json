@@ -1209,6 +1209,9 @@
     "ServiceName": "Amazon S3 Express"
   },
   {
+    "ServiceName": "Amazon S3 Files"
+  },
+  {
     "ServiceName": "Amazon S3 Glacier"
   },
   {
@@ -1312,6 +1315,9 @@
   },
   {
     "ServiceName": "Application Discovery Arsenal"
+  },
+  {
+    "ServiceName": "Claude Platform on AWS"
   },
   {
     "ServiceName": "Database Query Metadata Service"
